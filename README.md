@@ -45,10 +45,10 @@ A Spring Boot web application with Thymeleaf and MySQL to manage employee record
 ## 🖼️ Screenshots
 
 **Home Page**
-   <img src="imgs/employee-management-img1.PNG" width="100%" height="400" />
+   <img src="imgs/employee-management-img1.PNG" width="100%" height="500" />
 
  **Add Employee Form**
-   <img src="imgs/employee-management-img1.PNG" width="400" height="400" />
+   <img src="imgs/employee-management-img2.PNG" width="500" height="500" />
 
 ---
 
